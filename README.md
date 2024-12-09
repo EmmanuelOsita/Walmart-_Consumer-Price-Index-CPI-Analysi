@@ -1,2 +1,2 @@
-# Walmart-_Consumer-Price-Index-CPI-Analysi
+# Walmart-_Consumer-Price-Index-CPI-Analysis
 Walmart _Consumer Price Index (CPI) Analysis
