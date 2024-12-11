@@ -1,11 +1,12 @@
 # Walmart-_Consumer-Price-Index-CPI-Analysis
 
+![image](https://github.com/user-attachments/assets/f873e623-79bb-480d-80e3-aa92cfa17586)
 
 
 ## Project Overview
 This project aims to analyze the influence of temperature and fuel price on the Consumer Price Index (CPI) and provide actionable business insights for a multinational retail corporation. The study investigates whether rising temperatures and fuel price correlate with changes in CPI and explores how the corporation can adapt its strategies to respond to this relationship effectively.
 
-This is a pproject I carried out during a One Project/Week Data Challenge. The dataset used in this project is sourced from Kaggle. 
+This is a project I carried out during a One Project/Week Data Challenge. The dataset used in this project is sourced from Kaggle. 
 You can find it here: [Walmart Sales Dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
 
 ## Introduction
