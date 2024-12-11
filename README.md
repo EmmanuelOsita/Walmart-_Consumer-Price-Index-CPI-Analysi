@@ -91,6 +91,6 @@ Based on the Analysis result, the following are the recommendations for the reta
 5.	The business should explore renewable energy options or fuel-efficient technologies to mitigate the impact of volatile fuel prices.
 
 ## Link to Data Analysis Procudre 
-Click here to access the step by step method of data analysis: [Walmart Sales Dataset Coding Procedure](http://localhost:8888/lab/tree/Walmart.ipynb)
+Click here to access the step by step method of I applied in running the data analysis: [Walmart Sales Dataset Coding Procedure](http://localhost:8888/lab/tree/Walmart.ipynb)
 
 
