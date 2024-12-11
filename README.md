@@ -48,6 +48,7 @@ Example of the dataset:
 The analysis was conducted using a linear regression model to test the relationship between temperature, fuel price (independent variables) and CPI (dependent variable). This model helps determine if temperature, fuel price significantly influences CPI and provides a quantitative measure of the relationship.
 
 ### Tools and Libraries Used:
+The following were the tools and librarries I used for the project
 •	Excel
 •	Python
 •	Pandas
@@ -66,19 +67,28 @@ The regression analysis yielded the following output:
 
 1. The analysis shows that temperature has a measurable impact on CPI (Consumer Price Index). For every 1-degree increase in temperature, CPI increases by 0.38 points. This relationship is statistically significant, meaning it’s unlikely to be due to chance.
 
+![image](https://github.com/user-attachments/assets/d0723e55-e274-490b-8ecf-21c4e4a71373)
+
+
+![image](https://github.com/user-attachments/assets/16d6f5f3-97da-4572-a45e-eb2e68dd80f4)
+
 2. The regression analysis shows a negative relationship between fuel price and CPI, which could have important strategic implications for the retail’s operations. For every $1 increase in fuel price, CPI decreases by 14.63 points, indicating an inverse relationship.
 
+![image](https://github.com/user-attachments/assets/4aa1b51f-ca3d-4f2e-be76-a5095b77f100)
+
+
 ## Actionable Insights
+Based on the Analysis result, the following are the recommendations for the retail corporation
 
-1.	Dynamic Pricing Adjustments: The retail business should implement a dynamic pricing model that adjusts prices for temperature-sensitive products (e.g., air conditioners, outdoor gear, beverages) as temperature rises. This can help the business maintain profit margins while responding to consumer demand shifts.
+1.	The retail business should implement a dynamic pricing model that adjusts prices for temperature-sensitive products (e.g., air conditioners, outdoor gear, beverages) as temperature rises. This can help the business maintain profit margins while responding to consumer demand shifts.
 
-2.	Seasonal Stock Planning: Use temperature trends to predict demand spikes for seasonal items like summer clothing, cooling appliances, and outdoor products. Increase inventory levels of these items ahead of temperature increases.
+2.	The business should use temperature trends to predict demand spikes for seasonal items like summer clothing, cooling appliances, and outdoor products. Increase inventory levels of these items ahead of temperature increases.
 
-3.	Monitor Fuel Price Trends: Regularly track fuel price movements to anticipate shifts in CPI and adjust operations accordingly.
+3.	The business should regularly track fuel price movements to anticipate shifts in CPI and adjust operations accordingly.
 
-4.	Dynamic Pricing Models: Leverage this insight to create responsive pricing strategies that align with changes in fuel prices and CPI.
+4.	The business should leverage this insight to create responsive pricing strategies that align with changes in fuel prices and CPI.
 
-5.	Sustainability Investments: Explore renewable energy options or fuel-efficient technologies to mitigate the impact of volatile fuel prices.
+5.	The business should explore renewable energy options or fuel-efficient technologies to mitigate the impact of volatile fuel prices.
 
 
 
